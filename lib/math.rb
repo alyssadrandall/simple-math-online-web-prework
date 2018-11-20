@@ -1,8 +1,8 @@
-def addition(5, 6)
+def addition(5, 4)
 end
 
 def subtraction(num1, num2)
-end
+enddf 
 
 def division(num1, num2)
 end
